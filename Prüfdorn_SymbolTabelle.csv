@@ -1,0 +1,14 @@
+Taster Steuerung Ein;E    0.0;BOOL;
+Taster Steuerung Aus;E    0.1;BOOL;
+S1;E    0.2;BOOL;
+Zylinder 1 hinten;E    0.3;BOOL;
+Zylinder 1 vorne;E    0.4;BOOL;
+Zylinder 2 hinten;E    0.5;BOOL;
+Zylinder 2 vorne;E    0.6;BOOL;
+Bandmotor;A    4.0;BOOL;
+Zylinder 1 und 2;A    4.1;BOOL;
+Lampe Steuerung Ein;A    4.2;BOOL;
+Lampe Teil OK;A    4.3;BOOL;
+Lampe Teil fehlerhaft;A    4.4;BOOL;
+Lampe Band Ein;A    4.5;BOOL;
+;;;
