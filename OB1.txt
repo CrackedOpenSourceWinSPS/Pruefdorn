@@ -3,6 +3,12 @@
 2       S    M        10.0
 2
 2       U    "Taster Steuerung Ein"
+2       R    M        13.0
+2
+2       U    "Taster Steuerung Aus"
+2       R    M        14.0
+2
+2       U    "Taster Steuerung Ein"
 2       S    M        11.0
 2
 2       UN   "Taster Steuerung Aus"
