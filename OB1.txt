@@ -19,7 +19,7 @@
 2       U    M        10.0
 2       U    M        11.0
 2       =    "Lampe Band Ein"
-2                                 
+2  
 2       U    M        10.0
 2       =    "Lampe Steuerung Ein"
 2
