@@ -1,0 +1,59 @@
+@a@0 
+2       U    "Taster Steuerung Ein"
+2       S    M        10.0
+2
+2       U    "Taster Steuerung Ein"
+2       S    M        11.0
+2
+2       UN   "Taster Steuerung Aus"
+2       R    M        10.0
+2
+2       U    M        10.0
+2       U(
+2       O    M        11.0
+2       O    T         0
+2       ON   "S1"
+2       )
+2       =    "Bandmotor"
+2
+2       U    M        10.0
+2       U    M        11.0
+2       =    "Lampe Band Ein"
+2                                 
+2       U    M        10.0
+2       =    "Lampe Steuerung Ein"
+2
+2       U    "S1"
+2       FP   M        12.0
+2
+2       U    M        12.0
+2       R    M        11.0
+2
+2       U    M        12.0
+2       L    S5T#2S
+2       SE   T         0
+2
+2       U    M        12.0
+2       S    "Zylinder 1 und 2"
+2
+2       U    T         0
+2       U    "S1"
+2       R    "Zylinder 1 und 2"
+2
+2       U    T         0
+2       U    "S1"
+2       UN   "Zylinder 1 vorne"
+2       UN   "Zylinder 2 vorne"
+2       S    M        13.0
+2
+2       U    T         0
+2       U    "S1"
+2       U    "Zylinder 1 vorne"
+2       U    "Zylinder 2 vorne"
+2       S    M        14.0
+2
+2       U    M        13.0
+2       =    "Lampe Teil OK"
+2
+2       U    M        14.0
+2       =    "Lampe Teil fehlerhaft"
